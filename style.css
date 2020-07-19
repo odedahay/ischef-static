@@ -927,7 +927,7 @@ a.read-more:hover{
         display: flex;
         flex-wrap: wrap;
         padding-bottom: 40px;
-        padding-top: 100px;
+        padding-top: 40px;
         grid-template-columns: repeat(2, 1fr);
     }
 
